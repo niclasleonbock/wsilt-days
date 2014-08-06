@@ -118,5 +118,15 @@
         "name": "Monday",
         "artist": "The Sea and Cacke",
         "spotify_id": "5MjPJGrNanz3mQ8eKhmM8o"
+    },
+    {
+        "name": "Goodbye Blue Monday",
+        "artist": "Little Green Cars",
+        "spotify_id": "1vr2toVkYhl1mi7mw4YuD7"
+    },
+    {
+        "name": "Come Monday",
+        "artist": "Jimmy Buffett",
+        "spotify_id": "1lSKVRGQp6x2mNUnt26Whl"
     }
 ]
