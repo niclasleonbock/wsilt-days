@@ -16,7 +16,7 @@
     },
     {
         "name": "Tuesday Afternoon",
-        "artist": "The Monday Blues",
+        "artist": "The Moody Blues",
         "spotify_id": "3JNc8Kvl4q1oSWH6084W2m"
     },
     {
@@ -98,5 +98,15 @@
         "name": "Tuesday",
         "artist": "Yazoo",
         "spotify_id": "3KfMhKu8ecrvqvINgtC5c9"
+    },
+    {
+        "name": "Monday Tuesday",
+        "artist": "Molotov Jive",
+        "spotify_id": "4kR6jcUpsAUBZjwCsf3HrY"
+    },
+    {
+        "name": "Sweet Tuesday Morning",
+        "artist": "Badfinger",
+        "spotify_id": "57sPa3Hg8m9msvdxt9pGYU"
     }
 ]
