@@ -103,5 +103,20 @@
         "name": "Monday - Paracetamol",
         "artist": "Ulrich Schnauss",
         "spotify_id": "75knaKjp6RSDUnKABI0XoQ"
+    },
+    {
+        "name": "St. Monday",
+        "artist": "Billy Bragg",
+        "spotify_id": "5zavmVwXCfMBLahhVfK940"
+    },
+    {
+        "name": "If It's Monday Morning",
+        "artist": "Lee Hazlewood",
+        "spotify_id": "77kE91wWrngLUyR75gKjFt"
+    },
+    {
+        "name": "Monday",
+        "artist": "The Sea and Cacke",
+        "spotify_id": "5MjPJGrNanz3mQ8eKhmM8o"
     }
 ]
