@@ -53,5 +53,40 @@
         "name": "Thursday",
         "artist": "Youngblood Brass Band",
         "spotify_id": "3WXSzE5uWUgi1ilbi24hoO"
+    },
+    {
+        "name": "Thursday",
+        "artist": "John Gold",
+        "spotify_id": "4cAlPA1NJoNW93cxHruQUB"
+    },
+    {
+        "name": "Thursday Afternoon",
+        "artist": "Brian Eno",
+        "spotify_id": "4t3Yh6tKkxXrc458pNI7zZ"
+    },
+    {
+        "name": "Thursday",
+        "artist": "Asobi Seksu",
+        "spotify_id": "1B7eQgdjCATVt8T6rZBEiI"
+    },
+    {
+        "name": "Thursday",
+        "artist": "Plug In Stereo",
+        "spotify_id": "2lmPfo4hjObMtldFbNjWkD"
+    },
+    {
+        "name": "Unusual Thursday",
+        "artist": "Darshan Ambient",
+        "spotify_id": "1NnTF2GSY7NFp55lgPnkGQ"
+    },
+    {
+        "name": "Thursday",
+        "artist": "Jim Croce",
+        "spotify_id": "17ZGnLE6EkUU1mHPc7JeVM"
+    },
+    {
+        "name": "It's Thursday, January 12th and This Is the Last Time I'll Talk About Drowning",
+        "artist": "Flatsound",
+        "spotify_id": "6Mq4ShavxZUE539xrl1vLb"
     }
 ]
