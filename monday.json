@@ -31,11 +31,6 @@
     },
     {
         "name": "Monday",
-        "artist": "The Sea an Cake",
-        "spotify_id": "5MjPJGrNanz3mQ8eKhmM8o"
-    },
-    {
-        "name": "Monday",
         "artist": "Wilco",
         "spotify_id": "5qxjYCbDmyZRizwgpNyYKd"
     },
@@ -116,7 +111,7 @@
     },
     {
         "name": "Monday",
-        "artist": "The Sea and Cacke",
+        "artist": "The Sea and Cake",
         "spotify_id": "5MjPJGrNanz3mQ8eKhmM8o"
     },
     {
