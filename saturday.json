@@ -123,5 +123,10 @@
         "name": "It's Saturday",
         "artist": "Marcy Playground",
         "spotify_id": "7xnidi2Q7qFZnAxhj1q8cO"
+    },
+    {
+        "name": "Saturday Night (Is The Loneliest Night Of The Week)",
+        "artist": "Frank Sinatra",
+        "spotify_id": "2B7TggCCG74dE4N2T9imef"
     }
 ]
