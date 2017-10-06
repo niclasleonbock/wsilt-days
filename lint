@@ -1,0 +1,8 @@
+#!/bin/bash
+days=(monday tuesday wednesday thursday friday saturday sunday)
+
+for day in ${days[*]}
+do
+  echo Linting $day.json...
+  ./node_modules/jsonlint/lib/cli.js $day.json
+done
