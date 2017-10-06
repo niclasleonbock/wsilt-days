@@ -1,5 +1,5 @@
 {
-  "dev-dependencies": {
+  "dependencies": {
     "jsonlint": "^1.6.2"
   },
   "scripts": {
